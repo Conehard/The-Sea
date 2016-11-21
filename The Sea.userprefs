@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Mics\Advertisement\AdvertisementManager.cs">
+    <Files>
+      <File FileName="Assets\Plugins\Android\AndroidManifest.xml" Line="35" Column="98" />
+      <File FileName="Assets\Scripts\Mics\Advertisement\AdvertisementManager.cs" Line="42" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
